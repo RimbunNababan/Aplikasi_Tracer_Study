@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>loker4</title>
+	<link rel=stylesheet href=body.css>
+  </head>
+  <body>
+   <div class="header">
+       <div class="logo">
+        <img src=logo.png> <div class="unika"> <h2>Universitas Katolik<br>Santo Thomas Medan</h2> </div>
+       </div>
+       <div class="nav1">
+        <a href=#>Home</a>
+        <div class="link-wrapper">
+          <a href="#">Tracer Study</a>
+          <ul class="options">
+            <li><a href="halaman1.html">Hasil Tracer Study</a></li> 
+          </ul>
+        </div>
+        <a href=#>Alumni Job Board</a>
+        <div class="link-wrapper">
+          <a href="#">Dana Alumni Peduli </a>
+          <ul class="options">
+            <li><a href="halaman1.html">Laporan Dana </a></li>
+          </div>
+	    <a href=#>Top Graduates</a>
+	    <a href="../login/index.html">Login</a>
+     </div>
+       </div>
+     </div>			
+   </div>
+   <hr></hr>
+   <div class="atas">
+    <div class="a"><input type="text" class="search-input" placeholder="perusahaan,jabatan,dae"></div>
+        <div class="b">
+          <select>
+            <option><a href=#>Semua Spesialis Pekerjaan</a></option>
+          </select>
+        </div>
+    </div>
+    </div>
+    <section>
+      <fieldset><div class='info'>
+        <div class="foto">
+            <img src="ft4.jpg" style="width: 80px; height: 80px;">
+        </div>
+        <div class="nama">
+          
+            <a href=#>Sofware Developer</a>
+            <p>PT Informasi Guna Optima
+            Medan </p>
+              3 hari yang lalu
+        </div>
+    </div> 	
+    </fieldset>
+  
+    <line-link style="display: inline;">
+        <div class='info' style="display: inline-block;">
+   <h5>Sofware Developer</h5>
+   <p>Data Scient</p>
+   <h5>Requirement:</h5>
+   <ol>
+   <li> Gelar sarjana di bidang Ilmu Komputer, Teknik Perangkat Lunak, atau bidang terkait;</li>
+   <li> Pemahaman yang kuat tentang prinsip-prinsip pemrograman dan konsep-konsep dasar seperti struktur data,<br> 
+    algoritma, dan paradigma pemrograman;</li>
+   <li> Pengetahuan mendalam tentang bahasa pemrograman yang relevan dengan pekerjaan yang ditawarkan,<br>
+     seperti Java, C++, Python, JavaScript, atau Ruby;</li>
+    <li>Pengalaman kerja sebelumnya dalam pengembangan perangkat lunak;</li>
+    <li>Penguasaan dalam penggunaan alat dan kerangka kerja pengembangan perangkat lunak yang relevan, seperti Spring,<br> 
+        Django, Angular, React, atau Node.js;</li>
+    <li>Kemampuan untuk menganalisis masalah dan merancang solusi perangkat lunak yang efektif;</li>
+    <li>Kemampuan yang baik dalam berkomunikasi dengan anggota tim dan pemangku kepentingan lainnya;</li>
+    <li>Kemampuan untuk bekerja dalam tim dan berkolaborasi dengan pengembang perangkat lunak lainnya serta anggota<br> 
+        tim lintas disiplin.</li>
+</ol>
+  </div> 	
+  </line-link>
+  </section>
+  <div class="next">
+    <a href=#>Previous Next...</a>
+  </div>
+        <div class="nav2">
+          <div class="logo" >
+           <img src="logo.png" alt="fb1" style="width: 40px; height: 40px;"> 
+           <div class="ust">
+            Omnibus Omnia<br>
+            Become All things to all people
+          </div>
+          <div class ="paragraf1">
+            Kampus I<br>
+            Jalan Setia Budi No.479F, Tanjung Sari Medan<br>
+            Telepon : (061)8210161<br>
+            Fax : (061)8213269</p>
+          </div>
+          <div class="paragraf2">
+          Kampus II<br>
+          Jalan Mataram No.21 Perisah Hulu, Medan Baru-Kota Medan<br>
+          Telepon : (061)8210161<br>
+          Fax : (061)8213269</p>
+          <div class="sosmed">
+            <div class="ust">
+              Sosial Media
+             </div>
+             <a href="fb://page/{https://web.facebook.com/UNIKASANTOTHOMAS/?_rdc=1&_rdr}">
+              <img src="image/gambar/fb1.png" alt="Facebook" width="50" height="50">
+            </a>
+          
+            <a href="instagram://user?username={https://www.instagram.com/unika.santothomas/}">
+              <img src="image/gambar/ig1.png" alt="Instagram" width="50" height="50">
+            </a>
+          
+            <a href="https://www.youtube.com/channel/{https://www.youtube.com/channel/UCLgwjRJxA96yeVlJY5rFhEg}">
+              <img src="image/gambar/yt1.png" alt="YouTube" width="50" height="50">
+            </a>
+          </div>
+  </body>
+</html>

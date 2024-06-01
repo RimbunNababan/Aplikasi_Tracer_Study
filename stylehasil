@@ -1,0 +1,250 @@
+body{
+    background-color:white;
+    margin:0;
+    }
+    .header {
+        padding: 4px 30px 5px 5px;
+        background-color: white;
+        display:flex;
+        justify-content: space-between;
+        font-size:10pt;
+        height: 50px;  
+        }
+        .nav1{
+            margin-left: 30px;
+            position: relative;
+            top: 15px;
+            font-size:12pt;
+        }
+        .nav1 a{
+            margin-left: 30px;
+        }
+        .link-wrapper{
+            position: relative;
+            display: inline-block;
+        }
+        .link-wrapper:hover .options {
+            display: block;
+          }
+          
+          .options li {
+            padding: 8px 12px;
+            cursor: pointer;
+          }
+          
+          .options li:hover {
+            background-color: #ddd;
+          }
+          .nav1 a .link-wrapper{
+            position: relative;
+            margin-left: 20px;
+          }
+          .options {
+            position: absolute;
+            display: none;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            z-index: 1;
+          }
+    .unika{
+        margin-left: 80px;
+        position: relative;
+        top: -70px;
+    }
+    select{
+        text-decoration: none;
+        border: none; 
+        appearance: none; 
+         padding: 10px; 
+        background-color: white;
+        color: maroon;
+        font-size: 12pt;
+    }
+    select option a{
+        border: none;
+        margin-left: 12pt;
+    }
+    .hasil h4{
+        width: 200%;
+        height: 50px;
+        margin-left: 5px;
+        margin-right: 0px;
+    }
+    .search-container {
+        position: relative;
+        display: inline-block;
+        margin-left: 80%;
+        margin-top: -2rem;
+      }
+      
+      #search-input {
+        padding-right: 50px; /* Untuk memberikan ruang pada input agar ikon tidak tumpang tindih */
+      }
+      
+      #search-button {
+        position: absolute;
+        top: 10px;
+        right: 0;
+        width: 50px;
+        height: 100%;
+        background: none;
+        border: none;
+        cursor: pointer;
+      }
+      
+      #search-button i {
+        color: black;
+        font-size: 18px;
+        vertical-align: middle;
+        height: 10rem;
+      }
+      
+    a{
+    color		:maroon;
+    text-decoration :none;
+    }
+    a:hover{
+    color	:red;
+    }
+    .header .menu1 .nav1{
+    margin-left:250px
+    }
+    
+    .header .menu2 .nav2{
+    margin-left:250px;
+    position: relative;
+    }
+    table{
+       width: 80rem;
+       height: 100px;
+       line-height: 20px;
+       display: flex;
+       border-collapse: collapse;
+       text-align: center;
+       justify-content: center;
+       align-items: center;
+       margin-top: 10px;
+       margin-bottom: 20px;
+       margin-left: 10px;
+       margin-right:40px ;
+      
+    }
+    th,td{
+        border: 1px solid black;
+        padding: px;
+        width: 300px;
+        height: 10px;
+    }
+    
+    table, td {
+        padding: 5px;
+    }
+    table, td img{
+        text-align: center;
+    }
+    table a button{
+        background: transparent;
+        text-align: center;
+        font-size: 12pt;
+        color: brown;
+    }
+    .next {
+        margin-left: 70rem;
+        margin-top: 4rem;
+    }
+    .info {
+        margin : 50px 100px 10px 100px;
+    }
+    .bawah{
+        background-color:white;
+        }
+        .bawah {
+        padding: 4px 30px 5px 5px;
+        background-color: maroon;
+        display:flex;
+        justify-content: space-between;
+        font-size:10pt;
+        height: 80px;
+        margin-top: 15%;
+        }
+        .ust{
+            margin-left: -30px;
+            position: relative;
+            top: -1px;
+            color: white
+        }
+        .bawah .logo{
+            margin-left: 60px;
+            position: relative;
+            top: -1px;
+            font-weight: bold;
+        }
+        .paragraf1{
+            margin-top: -80px;
+            position: relative;
+            margin-left: 250px;
+            text-align: justify;
+            color: white
+        }
+        .paragraf2{
+            margin-top: -80px;
+            position: relative;
+            margin-left: 600px;
+            text-align: justify;
+            color: white
+        }
+        .info{ 
+            align-items: center;
+            display: flex;
+        }
+        .gambar{ 
+            float: left;
+            margin-right:40px;
+        }
+        .sosmed{
+            margin-left:500px;
+            position: relative;
+            top: -70px;
+        }
+        .sosmed .ust{
+            margin-left: 20px;
+            position: relative;
+            top: -5px;
+        }
+        h1 {
+            color: #333;
+          }
+          .social-media-list {
+            list-style: none;
+            padding: 0;
+          }
+          .social-media-list a img {
+            width: 50px;
+            height: 40px;
+            margin: 0 10px;
+          }
+          .social-media-list li {
+            display: inline-block;
+            margin-right: 10px;
+          }
+          
+          .social-media-list li a {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+            text-decoration: none;
+          }
+          
+          .social-media-list li a:hover {
+            background-color: #23527c;
+          }
+          

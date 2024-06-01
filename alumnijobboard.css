@@ -1,0 +1,216 @@
+body{
+    background-color:white;
+    margin:0;
+    }
+    .header {
+    padding: 4px 30px 5px 5px;
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+    font-size:10pt;
+    height: 50px;  
+    }
+    .nav1{
+        margin-left: 30px;
+        position: relative;
+        top: 15px;
+        font-size:12pt;
+    }
+    .nav1 a{
+        margin-left: 30px;
+    }
+    .link-wrapper{
+        position: relative;
+        display: inline-block;
+    }
+    .link-wrapper:hover .options {
+        display: block;
+      }
+      
+      .options li {
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+      
+      .options li:hover {
+        background-color: #ddd;
+      }
+      .nav1 a .link-wrapper{
+        position: relative;
+        margin-left: 20px;
+      }
+      .options {
+        position: absolute;
+        display: none;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        background-color: #f9f9f9;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        z-index: 1;
+      }
+    .unika{
+        margin-left: 80px;
+        position: relative;
+        top: -70px;
+    }
+    a{
+    color		:red;
+    text-decoration :none;
+    }
+    section .nama a{
+        color	:blue;
+        text-decoration: none;
+        cursor: pointer;
+        }
+    .nama{
+        text-align: center;
+    }
+    .info img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    a:hover{
+    color	:maroon;
+    }
+    .header .menu1 .nav1{
+    margin-left:250px
+    }
+    
+    .header .menu2 .nav2{
+    margin-left:250px;
+    position: relative;
+    }
+    .atas {
+        padding: 4px 30px 5px 5px;
+        background-color: maroon;
+        display:flex;
+        justify-content: space-between;
+        font-size:10pt;
+        height: 30px;
+        margin-top: -0.6%;
+        }
+        .atas .a{
+            margin-right: 2px;
+        }
+        .atas .b{
+            margin-right: 2000px;
+        }
+        .nav2 {
+        padding: 4px 30px 5px 5px;
+        background-color: maroon;
+        display:flex;
+        justify-content: space-between;
+        font-size:10pt;
+        height: 80px;
+        margin-top: 20%;
+        position: relative;
+        margin-left: -2%;
+        }
+        .ust{
+            margin-left: -30px;
+            position: relative;
+            top: -1px;
+        }
+        .nav2 .logo{
+            margin-left: 80px;
+            position: relative;
+            top: -1px;
+            font-weight: bold;
+        }
+        .paragraf1{
+            margin-top: -70px;
+            position: relative;
+            margin-left: 250px;
+        }
+        .paragraf2{
+            margin-top: -80px;
+            position: relative;
+            margin-left: 650px;
+        }
+        section{
+            display: flex;
+            padding: 15px 15px;
+        }
+        section .info{
+            width: 30%;
+            margin-right: 50px;
+            display: flex; 
+            margin-top: 50px;
+            margin-left: 120px;
+        }
+        section .nama{
+            text-align: center; 
+            margin-top: 100px; 
+            margin-left: -200px;
+        }
+        .sosmed{
+            margin-left: 450px;
+            position: relative;
+            top: -70px;
+        }
+        .sosmed .ust{
+            margin-left: 40px;
+            position: relative;
+            top: -1px;
+        }
+        fieldset {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-bottom: 10px;
+            height: 20rem;
+            width: 20rem;
+            border-color: black;
+          }
+          .foto img{
+            margin-left: -2rem;
+            margin-right: 4rem;
+          }
+          fieldset .h1{
+            margin-top: 10px;
+          }
+          .next{
+            margin-top: -8px;
+            margin-left: 1200px;
+          }
+          .sosmed{
+            margin-left:500px;
+            position: relative;
+            top: -70px;
+        }
+        .sosmed .ust{
+            margin-left: 20px;
+            position: relative;
+            top: -5px;
+        }
+        h1 {
+            color: #333;
+          }
+          .social-media-list {
+            list-style: none;
+            padding: 0;
+          }
+          
+          .social-media-list li {
+            display: inline-block;
+            margin-right: 10px;
+          }
+          
+          .social-media-list li a {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+            text-decoration: none;
+          }
+          
+          .social-media-list li a:hover {
+            background-color: #23527c;
+          }
+        

@@ -1,0 +1,188 @@
+body{
+    background-color:white;
+    margin:0;
+    }
+    .header{
+    background-color:white;
+    }
+    .header {
+    padding: 4px 30px 5px 5px;
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+    font-size:10pt;
+    height: 50px;  
+    }
+    .nav1{
+        margin-left: 30px;
+        position: relative;
+        top: 15px;
+        font-size:12pt;
+    }
+    .nav1 a{
+        margin-left: 30px;
+    }
+    .link-wrapper{
+        position: relative;
+        display: inline-block;
+    }
+    .link-wrapper:hover .options {
+        display: block;
+      }
+      .options li {
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+      
+      .options li:hover {
+        background-color: #ddd;
+      }
+      .nav1 a .link-wrapper{
+        position: relative;
+        margin-left: 20px;
+      }
+      .options {
+        position: absolute;
+        display: none;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        background-color: #f9f9f9;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        z-index: 1;
+      }
+    .unika{
+        margin-left: 80px;
+        position: relative;
+        top: -70px;
+    }
+    a{
+    color		:red;
+    text-decoration :none;
+    }
+    .nav1 a{
+        margin-left: 30px;
+    }
+    .unika{
+        margin-left: 80px;
+        position: relative;
+        top: -70px;
+    }
+    a{
+    color		:red;
+    text-decoration :none;
+    }
+    a:hover{
+    color	:maroon;
+    }
+    .header .menu1 .nav1{
+    margin-left:250px
+    }
+        section{
+            display: flex;
+            padding: 15px 15px;
+        }
+        section .alumni{
+            width: 30%;
+            margin-right: 20px;
+            margin-left: 90px;
+            display: flex; 
+        }
+        section .nama{
+            text-align: center; 
+            margin-top: 250px; 
+            margin-left: -250px;
+        }
+        .judul{
+            text-align: center;
+        }
+        .header .menu2 .nav2{
+            margin-left:250px;
+            position: relative;
+            }
+            .nav2 {
+                padding: 4px 30px 5px 5px;
+                background-color: maroon;
+                display:flex;
+                justify-content: space-between;
+                font-size:10pt;
+                height: 80px;
+                margin-top: 20%;
+                position: relative;
+                margin-left: -2%;
+                }
+                .ust{
+                    margin-left: -30px;
+                    position: relative;
+                    top: -1px;
+                    color: white;
+                }
+                .nav2 .logo{
+                    margin-left: 80px;
+                    position: relative;
+                    top: -1px;
+                    font-weight: bold;
+                }
+                .paragraf1{
+                    margin-top: -70px;
+                    position: relative;
+                    margin-left: 250px;
+                    color: white;
+                }
+                .paragraf2{
+                    margin-top: -80px;
+                    position: relative;
+                    margin-left: 650px;
+                    color: white;
+                }
+                section{
+                    display: flex;
+                    padding: 15px 15px;
+                }
+                section .info{
+                    width: 30%;
+                    margin-right: 50px;
+                    display: flex; 
+                    margin-top: 50px;
+                    margin-left: 120px;
+                }
+                .sosmed{
+                    margin-left:500px;
+                    position: relative;
+                    top: -70px;
+                }
+                .sosmed .ust{
+                    margin-left: 20px;
+                    position: relative;
+                    top: -5px;
+                }
+                h1 {
+                    color: #333;
+                  }
+                  .social-media-list {
+                    list-style: none;
+                    padding: 0;
+                  }
+                  
+                  .social-media-list li {
+                    display: inline-block;
+                    margin-right: 10px;
+                  }
+                  
+                  .social-media-list li a {
+                    display: inline-block;
+                    width: 20px;
+                    height: 20px;
+                    background-color: #333;
+                    color: #fff;
+                    text-align: center;
+                    line-height: 40px;
+                    border-radius: 50%;
+                    text-decoration: none;
+                  }
+                  
+                  .social-media-list li a:hover {
+                    background-color: #23527c;
+                  }
+                
